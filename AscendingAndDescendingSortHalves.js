@@ -21,7 +21,6 @@ function AscendingAndDescendingSortHalves(arr) {
     }
   }
 
-//   console.log(array)
 return arr
 }
 
